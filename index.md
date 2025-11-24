@@ -10,9 +10,11 @@ This is a new lesson built with [The Carpentries Workbench][workbench]. It is pr
 
 ::: prereq
 ## Prerequisites
+
 GitHub
 R programming language
 Some basic python
+
 :::
 
 [workbench]: https://carpentries.github.io/sandpaper-docs
