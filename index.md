@@ -8,6 +8,11 @@ This is a new lesson built with [The Carpentries Workbench][workbench]. It is pr
 2. Lesson Objective #2
 3. Lesson Objective #3
 
+::: prereq
+GitHub
+R programming language
+Some basic python
+:::
 
 [workbench]: https://carpentries.github.io/sandpaper-docs
 
