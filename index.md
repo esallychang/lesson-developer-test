@@ -9,6 +9,7 @@ This is a new lesson built with [The Carpentries Workbench][workbench]. It is pr
 3. Lesson Objective #3
 
 ::: prereq
+## Prerequisites
 GitHub
 R programming language
 Some basic python
