@@ -1,7 +1,7 @@
 ---
-title: "Intro to Markdown"
-teaching: 10
-exercises: 2
+title: "Intro to Lesson Design"
+teaching: 0
+exercises: 0
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
